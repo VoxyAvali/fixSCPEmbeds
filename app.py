@@ -78,9 +78,9 @@ def fix_scp(path):
                 image_url = src
                 break
 
-        full_desc = f"""{number}
+        full_desc = f"""Item #: {number}
  {nickname}
- Classification: {obj_class}"""
+ Object Class: {obj_class}"""
 
         html = f"""
         <!DOCTYPE html>
