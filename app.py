@@ -26,9 +26,9 @@ load_nicknames()
 @app.route('/')
 def home():
     return """
-    <h1>🛠 FixSCP</h1>
+    <h1>fFixSCP</h1>
     <p>Simply replace scp-wiki.wikidot.com with this website´s URL</p>
-    <p>© 2026 VoxyAvali</p>
+    <footer>© 2026 VoxyAvali</footer>
     """
 
 @app.route('/<path:path>')
@@ -79,7 +79,7 @@ def fix_scp(path):
                 break
 
         full_desc = f"""#: {number}
-• "{nickname}"
+• {nickname}
 • Classification: {obj_class}"""
 
         html = f"""
