@@ -1,4 +1,4 @@
-from flask import Flask, redirect, request
+from flask import Flask, redirect
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -8,9 +8,8 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return """
-    <h1>fixSCP</h1>
-    <p>Replace <code>scp-wiki.wikidot.com</code> with this site's URL</p>
-    <p>Example: <a href="/scp-173">/scp-173</a> or <a href="/SCP-682">/SCP-682</a></p>
+    <h1>🛠 FixSCP</h1>
+    <p>Replace scp-wiki.wikidot.com with this URL</p>
     """
 
 @app.route('/<path:path>')
@@ -19,66 +18,49 @@ def fix_scp(path):
         original_url = path
     else:
         match = re.search(r'(\d{3,4})', path)
-        if match:
-            scp_num = f"scp-{match.group(1).zfill(3)}"
-        else:
-            scp_num = re.sub(r'[^a-z0-9-]', '', path.lower())
-            if not scp_num.startswith('scp-'):
-                scp_num = 'scp-' + scp_num.lstrip('scp')
+        scp_num = f"scp-{match.group(1).zfill(3)}" if match else re.sub(r'[^a-z0-9-]', '', path.lower())
+        if not scp_num.startswith('scp-'):
+            scp_num = 'scp-' + scp_num.lstrip('scp')
         original_url = f"https://scp-wiki.wikidot.com/{scp_num}"
 
     try:
-        headers = {'User-Agent': 'FixSCP (Discord Embed Fixer)'}
+        headers = {'User-Agent': 'FixSCP Discord Embedder'}
         r = requests.get(original_url, headers=headers, timeout=10)
-        
         if r.status_code != 200:
             return redirect(original_url)
 
         soup = BeautifulSoup(r.text, 'html.parser')
 
-        title_tag = soup.find('title')
-        page_title = title_tag.get_text(strip=True) if title_tag else "SCP Foundation"
+        # Title & Nickname
+        page_title = soup.find('title').get_text(strip=True) if soup.find('title') else "SCP Entry"
         page_title = page_title.replace(" - SCP Foundation", "").strip()
 
-        number = re.search(r'SCP-\d{3,4}', page_title)
-        number = number.group(0) if number else re.search(r'scp-\d{3,4}', original_url.lower())
-        number = number.group(0).upper() if number else "SCP-???"
+        number_match = re.search(r'(SCP-\d{3,4})', page_title)
+        number = number_match.group(1) if number_match else "SCP-???"
+        nickname = page_title.replace(number, "").strip(" -") or "Unknown"
 
-        nickname = page_title.replace(number, "").strip(" -")
-        if not nickname:
-            nickname = "Unknown"
-
+        # Object Class
         obj_class = "Unknown"
-        for strong in soup.find_all(['strong', 'b']):
-            if "Object Class" in strong.text:
-                sibling = strong.next_sibling
+        for tag in soup.find_all(['strong', 'b']):
+            if "Object Class" in tag.text:
+                sibling = tag.next_sibling
                 if sibling:
-                    text = sibling.strip() if isinstance(sibling, str) else sibling.get_text(strip=True)
-                    obj_class = text.splitlines()[0].strip() or "Unknown"
+                    obj_class = sibling.strip() if isinstance(sibling, str) else sibling.get_text(strip=True)
+                    obj_class = obj_class.splitlines()[0].strip() or "Unknown"
                 break
 
+        # Image (strongest detection)
         image_url = None
-
-        for img in soup.select('#page-content img[src*="local--files"]'):
-            src = img.get('src')
-            if src:
+        for img in soup.select('#page-content img'):
+            src = img.get('src', '')
+            if 'local--files' in src or re.search(r'scp-\d', src.lower()):
                 if not src.startswith('http'):
-                    src = 'https://scp-wiki.wdfiles.com' + (src if src.startswith('/') else '/' + src)
+                    src = 'https://scp-wiki.wdfiles.com' + src if src.startswith('/') else src
                 image_url = src
                 break
 
-        if not image_url:
-            for img in soup.find_all('img', src=True):
-                src = img.get('src', '')
-                if re.search(r'scp-\d+', src.lower()) and any(ext in src.lower() for ext in ['.jpg', '.jpeg', '.png', '.gif']):
-                    if not src.startswith('http'):
-                        src = 'https://scp-wiki.wdfiles.com' + (src if src.startswith('/') else '/' + src)
-                    image_url = src
-                    break
-
-        full_desc = f"""• The number: {number}
-• The nickname: {nickname}
-• The classification: {obj_class}"""
+        # Clean single-line description for Discord
+        full_desc = f"• The number: {number}\n• The nickname: {nickname}\n• The classification: {obj_class}"
 
         html = f"""
         <!DOCTYPE html>
@@ -87,22 +69,22 @@ def fix_scp(path):
             <meta charset="utf-8">
             <title>{number} - {nickname}</title>
             
-            <!-- Discord Open Graph Meta Tags -->
             <meta property="og:title" content="{number} - {nickname}">
-            <meta property="og:description" content="{full_desc.replace('"', '&quot;')}">
+            <meta property="og:description" content="{full_desc.replace('\n', ' | ')}">
             <meta property="og:url" content="{original_url}">
             <meta property="og:type" content="article">
+            <meta property="og:site_name" content="FixSCP">
             <meta name="twitter:card" content="summary_large_image">
             {"<meta property='og:image' content='" + image_url + "'>" if image_url else ""}
             <meta name="theme-color" content="#990000">
 
-            <!-- Instant Redirect -->
+            <!-- Instant redirect -->
             <meta http-equiv="refresh" content="0; url={original_url}">
         </head>
-        <body style="font-family:Arial; text-align:center; padding:50px; background:#111; color:#ddd;">
-            <h2>Redirecting to SCP Wiki...</h2>
-            <p>{number} - {nickname}</p>
-            <p>If you are not redirected automatically, <a href="{original_url}" style="color:#44aaff;">click here</a>.</p>
+        <body style="font-family:Arial; text-align:center; padding:60px; background:#0f0f0f; color:#ddd;">
+            <h2>🔄 Redirecting to the SCP Wiki...</h2>
+            <p><strong>{number} - {nickname}</strong></p>
+            <p>If nothing happens, <a href="{original_url}">click here</a>.</p>
         </body>
         </html>
         """
