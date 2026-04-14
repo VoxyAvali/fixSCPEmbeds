@@ -26,7 +26,7 @@ load_nicknames()
 @app.route('/')
 def home():
     return """
-    <h1>fFixSCP</h1>
+    <h1>fixSCP</h1>
     <p>Simply replace scp-wiki.wikidot.com with this website´s URL</p>
     <footer>© 2026 VoxyAvali</footer>
     """
@@ -41,7 +41,7 @@ def fix_scp(path):
         original_url = f"https://scp-wiki.wikidot.com/scp-{match.group(1).zfill(3)}" if match else f"https://scp-wiki.wikidot.com/{path}"
 
     try:
-        headers = {'User-Agent': 'FixSCP Discord Embedder'}
+        headers = {'User-Agent': 'fixSCP Discord Embed fixer'}
         r = requests.get(original_url, headers=headers, timeout=10)
         
         if r.status_code != 200:
@@ -79,8 +79,8 @@ def fix_scp(path):
                 break
 
         full_desc = f"""#: {number}
-• {nickname}
-• Classification: {obj_class}"""
+ {nickname}
+ Classification: {obj_class}"""
 
         html = f"""
         <!DOCTYPE html>
@@ -89,7 +89,7 @@ def fix_scp(path):
             <meta charset="utf-8">
             <title>{number} - {nickname}</title>
             
-            <meta property="og:title" content="{number} - {nickname}">
+            <meta property="og:title" content="SCP Foundation Entry">
             <meta property="og:description" content="{full_desc.replace('\n', ' | ')}">
             <meta property="og:url" content="{original_url}">
             <meta property="og:type" content="article">
