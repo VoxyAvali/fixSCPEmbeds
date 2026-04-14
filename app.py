@@ -16,7 +16,7 @@ HOME_HTML = """
 </head>
 <body style="font-family:Arial; text-align:center; padding:50px;">
     <h1>FixSCP</h1>
-    <p>Just replace <code>scp-wiki.wikidot.com</code> with <code>YOUR-URL.onrender.com</code></p>
+    <p>Just replace <code>scp-wiki.wikidot.com</code> with <code>https://fixscp.onrender.com</code></p>
     <p>Example: <a href="/scp-173">fixscp.onrender.com/scp-173</a></p>
 </body>
 </html>
