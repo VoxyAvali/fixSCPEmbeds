@@ -5,11 +5,30 @@ import re
 
 app = Flask(__name__)
 
+NICKNAMES = {}
+
+def load_nicknames():
+    try:
+        with open('nicknameIndex.txt', 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if ' - ' in line:
+                    key, value = line.split(' - ', 1)
+                    NICKNAMES[key.strip().upper()] = value.strip()
+        print(f"Loaded {len(NICKNAMES)} SCP nicknames")
+    except FileNotFoundError:
+        print("nicknameIndex.txt not found")
+    except Exception as e:
+        print(f"Error loading nicknames: {e}")
+
+load_nicknames()
+
 @app.route('/')
 def home():
     return """
-    <h1>fixSCP</h1>
-    <p>Simply replace scp-wiki.wikidot.com with this website´s URL for a better embed</p>
+    <h1>🛠 FixSCP</h1>
+    <p>Simply replace scp-wiki.wikidot.com with this website´s URL</p>
+    <p>© 2026 VoxyAvali</p>
     """
 
 @app.route('/<path:path>')
@@ -18,49 +37,50 @@ def fix_scp(path):
         original_url = path
     else:
         match = re.search(r'(\d{3,4})', path)
-        scp_num = f"scp-{match.group(1).zfill(3)}" if match else re.sub(r'[^a-z0-9-]', '', path.lower())
-        if not scp_num.startswith('scp-'):
-            scp_num = 'scp-' + scp_num.lstrip('scp')
-        original_url = f"https://scp-wiki.wikidot.com/{scp_num}"
+        scp_num = f"SCP-{match.group(1).zfill(3)}" if match else "SCP-???"
+        original_url = f"https://scp-wiki.wikidot.com/scp-{match.group(1).zfill(3)}" if match else f"https://scp-wiki.wikidot.com/{path}"
 
     try:
         headers = {'User-Agent': 'FixSCP Discord Embedder'}
         r = requests.get(original_url, headers=headers, timeout=10)
+        
         if r.status_code != 200:
             return redirect(original_url)
 
         soup = BeautifulSoup(r.text, 'html.parser')
 
-        # Title & Nickname
-        page_title = soup.find('title').get_text(strip=True) if soup.find('title') else "SCP Entry"
-        page_title = page_title.replace(" - SCP Foundation", "").strip()
+        number = re.search(r'SCP-\d{3,4}', original_url.upper())
+        number = number.group(0) if number else "SCP-???"
 
-        number_match = re.search(r'(SCP-\d{3,4})', page_title)
-        number = number_match.group(1) if number_match else "SCP-???"
-        nickname = page_title.replace(number, "").strip(" -") or "Unknown"
+        nickname = NICKNAMES.get(number, "Unknown")
+        if nickname == "Unknown":
+            title_tag = soup.find('title')
+            if title_tag:
+                page_title = title_tag.get_text(strip=True).replace(" - SCP Foundation", "")
+                if ' - ' in page_title:
+                    nickname = page_title.split(' - ', 1)[1]
 
-        # Object Class
         obj_class = "Unknown"
         for tag in soup.find_all(['strong', 'b']):
             if "Object Class" in tag.text:
                 sibling = tag.next_sibling
                 if sibling:
-                    obj_class = sibling.strip() if isinstance(sibling, str) else sibling.get_text(strip=True)
-                    obj_class = obj_class.splitlines()[0].strip() or "Unknown"
+                    text = sibling.strip() if isinstance(sibling, str) else sibling.get_text(strip=True)
+                    obj_class = text.splitlines()[0].strip() or "Unknown"
                 break
 
-        # Image (strongest detection)
         image_url = None
         for img in soup.select('#page-content img'):
             src = img.get('src', '')
             if 'local--files' in src or re.search(r'scp-\d', src.lower()):
                 if not src.startswith('http'):
-                    src = 'https://scp-wiki.wdfiles.com' + src if src.startswith('/') else src
+                    src = 'https://scp-wiki.wdfiles.com' + (src if src.startswith('/') else '/' + src)
                 image_url = src
                 break
 
-        # Clean single-line description for Discord
-        full_desc = f"• The number: {number}\n• The nickname: {nickname}\n• The classification: {obj_class}"
+        full_desc = f"""#: {number}
+• "{nickname}"
+• Classification: {obj_class}"""
 
         html = f"""
         <!DOCTYPE html>
@@ -73,16 +93,14 @@ def fix_scp(path):
             <meta property="og:description" content="{full_desc.replace('\n', ' | ')}">
             <meta property="og:url" content="{original_url}">
             <meta property="og:type" content="article">
-            <meta property="og:site_name" content="FixSCP">
             <meta name="twitter:card" content="summary_large_image">
             {"<meta property='og:image' content='" + image_url + "'>" if image_url else ""}
             <meta name="theme-color" content="#990000">
 
-            <!-- Instant redirect -->
             <meta http-equiv="refresh" content="0; url={original_url}">
         </head>
         <body style="font-family:Arial; text-align:center; padding:60px; background:#0f0f0f; color:#ddd;">
-            <h2>🔄 Redirecting to the SCP Wiki...</h2>
+            <h2>Redirecting to SCP Wiki...</h2>
             <p><strong>{number} - {nickname}</strong></p>
             <p>If nothing happens, <a href="{original_url}">click here</a>.</p>
         </body>
