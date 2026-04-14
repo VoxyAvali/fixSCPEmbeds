@@ -1,76 +1,102 @@
-from flask import Flask, request, redirect, render_template_string
+from flask import Flask, request, redirect
 import requests
 from bs4 import BeautifulSoup
 import re
 
 app = Flask(__name__)
 
-# Simple homepage
-HOME_HTML = """
-<!DOCTYPE html>
-<html>
-<head>
-    <title>FixSCP: (hopefully) better SCP Wiki Embeds</title>
-    <meta property="og:title" content="FixSCP">
-    <meta property="og:description" content="trying to make SCP wiki links better in Discord and such">
-</head>
-<body style="font-family:Arial; text-align:center; padding:50px;">
-    <h1>FixSCP</h1>
-    <p>Just replace <code>scp-wiki.wikidot.com</code> with <code>https://fixscp.onrender.com</code></p>
-    <p>Example: <a href="/scp-173">fixscp.onrender.com/scp-173</a></p>
-</body>
-</html>
-"""
-
 @app.route('/')
 def home():
-    return render_template_string(HOME_HTML)
+    return """
+    <h1>🛠 FixSCP</h1>
+    <p>Replace <code>scp-wiki.wikidot.com</code> with <code>fixscp.onrender.com</code></p>
+    <p>Example: <a href="/scp-173">/scp-173</a></p>
+    """
 
 @app.route('/<path:path>')
 def fix_scp(path):
-    # Redirect full URLs or handle SCP numbers
+    # Clean the path
     if path.startswith('http'):
-        url = path
+        original_url = path
     else:
-        url = f"https://scp-wiki.wikidot.com/{path}"
-    
+        # Handle both scp-173 and scp/173
+        clean_path = re.sub(r'^/?(scp-?|item-?)', 'scp-', path.lower())
+        original_url = f"https://scp-wiki.wikidot.com/{clean_path}"
+
     try:
-        r = requests.get(url, timeout=10)
+        headers = {'User-Agent': 'FixSCP-Bot[](https://github.com/yourname/fixscp)'}
+        r = requests.get(original_url, headers=headers, timeout=15)
+        
         if r.status_code != 200:
-            return "Could not fetch SCP page", 400
-        
+            return redirect(original_url)
+
         soup = BeautifulSoup(r.text, 'html.parser')
-        
-        # Basic extraction
-        title = soup.find('title').text.strip() if soup.find('title') else "SCP Entry"
-        description = "SCP Foundation entry. Check the full page for details."
-        
-        # Try to get first paragraph
+
+        # === Extract data ===
+        title_tag = soup.find('title')
+        page_title = title_tag.get_text(strip=True) if title_tag else "SCP Foundation"
+
+        # Object Class
+        obj_class = "Unknown"
+        for strong in soup.find_all('strong'):
+            if "Object Class:" in strong.text or "Object Class :" in strong.text:
+                obj_class = strong.next_sibling.get_text(strip=True) if strong.next_sibling else "Unknown"
+                break
+
+        # Main image (most SCPs have one)
+        image = None
+        img_tag = soup.find('img', src=re.compile(r'local--files'))
+        if img_tag and 'src' in img_tag.attrs:
+            image = "https://scp-wiki.wikidot.com" + img_tag['src']
+
+        # Short description (first real paragraph)
+        description = "Anomalous object requiring special containment."
         content = soup.find('div', id='page-content')
         if content:
-            p = content.find('p')
-            if p:
-                description = p.text.strip()[:400] + "..." if len(p.text) > 400 else p.text.strip()
-        
-        # Very basic HTML with good meta tags for Discord
+            paragraphs = content.find_all('p')
+            for p in paragraphs:
+                text = p.get_text(strip=True)
+                if len(text) > 30 and not text.startswith("Item #:"):
+                    description = text[:380] + "..." if len(text) > 380 else text
+                    break
+
+        full_description = f"Object Class: {obj_class}\n\n{description}"
+
+        # === Rich HTML with perfect meta tags for Discord ===
         html = f"""
         <!DOCTYPE html>
         <html>
         <head>
-            <meta property="og:title" content="{title}">
-            <meta property="og:description" content="{description}">
-            <meta property="og:url" content="{url}">
+            <meta charset="utf-8">
+            <title>{page_title}</title>
+            
+            <!-- Open Graph / Discord -->
+            <meta property="og:title" content="{page_title}">
+            <meta property="og:description" content="{full_description.replace('"', '&quot;')}">
+            <meta property="og:url" content="{original_url}">
+            <meta property="og:type" content="article">
             <meta name="twitter:card" content="summary_large_image">
+            
+            <!-- Image -->
+            {"<meta property='og:image' content='" + image + "'>" if image else ""}
+            
+            <!-- Nice color based on class -->
+            <meta name="theme-color" content="#ff4444">
         </head>
-        <body>
-            <h1>Redirecting to original SCP...</h1>
-            <p><a href="{url}">Open original page</a></p>
+        <body style="font-family:Arial; padding:20px; background:#111; color:#ddd;">
+            <h2>🔗 FixSCP Preview</h2>
+            <p><strong>{page_title}</strong></p>
+            <p><strong>Object Class:</strong> {obj_class}</p>
+            <p>{description}</p>
+            <hr>
+            <p><a href="{original_url}" style="color:#00bbff;">→ View full entry on SCP Wiki</a></p>
         </body>
         </html>
         """
         return html
-    except:
-        return redirect(f"https://scp-wiki.wikidot.com/{path}")
+
+    except Exception as e:
+        return redirect(original_url)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
