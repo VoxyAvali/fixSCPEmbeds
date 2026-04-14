@@ -78,7 +78,7 @@ def fix_scp(path):
                 image_url = src
                 break
 
-        full_desc = f"""#: {number}
+        full_desc = f"""{number}
  {nickname}
  Classification: {obj_class}"""
 
