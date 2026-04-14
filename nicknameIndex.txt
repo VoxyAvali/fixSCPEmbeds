@@ -1,5 +1,5 @@
 SCP-001 - Awaiting De-classification [Blocked]
-SCP-002 - The "Living" Room
+SCP-002 - The ''Living'' Room
 SCP-003 - Biological Motherboard
 SCP-004 - The 12 Rusty Keys and the Door
 SCP-005 - Skeleton Key
@@ -43,7 +43,7 @@ SCP-042 - A Formerly Winged Horse
 SCP-043 - The Beatle
 SCP-044 - World War II Era Molecular-Fission Cannon
 SCP-045 - Atmospheric Converter
-SCP-046 - "Predatory" Holly Bush
+SCP-046 - ''Predatory'' Holly Bush
 SCP-047 - Microbial Mutagen
 SCP-048 - The Cursed SCP Number
 SCP-049 - Plague Doctor
@@ -59,8 +59,8 @@ SCP-058 - Heart of Darkness
 SCP-059 - Radioactive Mineral
 SCP-060 - Infernal Occult Skeleton
 SCP-061 - Auditory Mind Control
-SCP-062 - "Quantum" Computer
-SCP-063 - "The World's Best TothBrush"
+SCP-062 - ''Quantum'' Computer
+SCP-063 - ''The World's Best TothBrush''
 SCP-064 - Flawed von Neumann Structure
 SCP-065 - Destroyed Organic Catalyst
 SCP-066 - Eric's Toy
@@ -70,16 +70,16 @@ SCP-069 - Second Chance
 SCP-070 - Iron Wings
 SCP-071 - Degenerative Metamorphic Entity
 SCP-072 - The Foot of the Bed
-SCP-073 - "Cain"
+SCP-073 - ''Cain''
 SCP-074 - Quantum Woodlouse
 SCP-075 - Corrosive Snail
-SCP-076 - "Able"
+SCP-076 - ''Able''
 SCP-077 - Rot Skull
 SCP-078 - Guilt
 SCP-079 - Old AI
 SCP-080 - Dark Form
 SCP-081 - Spontaneous Combustion Virus
-SCP-082 - "Fernand" the Cannibal
+SCP-082 - ''Fernand'' the Cannibal
 SCP-083 - An Abandoned Row Home
 SCP-084 - Static Tower
 SCP-085 - Hand-drawn ''Cassy''
@@ -89,22 +89,22 @@ SCP-088 - The Lizard King
 SCP-089 - Tophet
 SCP-090 - Apocorubik's Cube
 SCP-091 - Nostalgia
-SCP-092 - "The Best of The 5th Dimension"
+SCP-092 - ''The Best of The 5th Dimension''
 SCP-093 - Red Sea Object
 SCP-094 - Miniature Event Horizon
 SCP-095 - The Atomic Adventures of Ronnie Ray-Gun
-SCP-096 - The "Shy Guy"
+SCP-096 - The ''Shy Guy''
 SCP-097 - Old Fairgrounds
 SCP-098 - Surgeon Crabs
 SCP-099 - The Portrait
 
 100 to 199
-SCP-100 - "Jamaican Joe's Junkyard Jubilee"
+SCP-100 - ''Jamaican Joe's Junkyard Jubilee''
 SCP-101 - Hungry Bag
 SCP-102 - Property of Marshall, Carter, and Dark Ltd.
 SCP-103 - Rhys' Head/Mara's Heart
 SCP-104 - The Lonely Ball
-SCP-105 - "Iris"
+SCP-105 - ''Iris''
 SCP-106 - The Old Man
 SCP-107 - The Turtle Shell
 SCP-108 - Extradimensional Nasal Cavity
@@ -130,7 +130,7 @@ SCP-127 - The Living Gun
 SCP-128 - Kinetic Energy Entity
 SCP-129 - Progressive Fungal Infection
 SCP-130 - Post Office
-SCP-131 - The "Eye Pods"
+SCP-131 - The ''Eye Pods''
 SCP-132 - Broken Desert
 SCP-133 - Instant Hole
 SCP-134 - Star-Eyed Child
@@ -147,7 +147,7 @@ SCP-144 - Tibetan Rope to Heaven
 SCP-145 - Man-Absorbing Phone
 SCP-146 - Bronze Head of Shame
 SCP-147 - Anachronistic Television
-SCP-148 - The "Telekill" Alloy
+SCP-148 - The ''Telekill'' Alloy
 SCP-149 - The Blood Flies
 SCP-150 - Ship of Theseus
 SCP-151 - The Painting
@@ -177,12 +177,12 @@ SCP-174 - Ventriloquist's Dummy
 SCP-175 - Treasure Map
 SCP-176 - Observable Time Loop
 SCP-177 - Checkmate
-SCP-178 - "3-D" Specs
+SCP-178 - ''3-D'' Specs
 SCP-179 - Sauelsuesor
 SCP-180 - Identity Thieving Hat
-SCP-181 - "Lucky"
-SCP-182 - "Rider"
-SCP-183 - "Weaver"
+SCP-181 - ''Lucky''
+SCP-182 - ''Rider''
+SCP-183 - ''Weaver''
 SCP-184 - The Architect
 SCP-185 - The Radio
 SCP-186 - To End All Wars
@@ -194,7 +194,7 @@ SCP-191 - Cyborg Child
 SCP-192 - Flawless X-Ray Machine
 SCP-193 - The Tissue Snail
 SCP-194 - Thank You For Your Cooperation
-SCP-195 - A "Medicinal Whiskey"
+SCP-195 - A ''Medicinal Whiskey''
 SCP-196 - Time Paradox
 SCP-197 - The Greenhouse
 SCP-198 - Cup of Joe
@@ -209,7 +209,7 @@ SCP-204 - The Protector
 SCP-205 - Shadow Lamps
 SCP-206 - The Voyager
 SCP-207 - Cola Bottles
-SCP-208 - "Bes"
+SCP-208 - ''Bes''
 SCP-209 - The Sadist's Tumbler
 SCP-210 - Flooded House
 SCP-211 - Paper-Covered Building
@@ -237,13 +237,13 @@ SCP-232 - Jack Proton's Atomic Zapper
 SCP-233 - 23-Sided Polyhedron
 SCP-234 - Extradimensional Fish
 SCP-235 - Phonographic Records
-SCP-236 - Mimic "Crabs"
+SCP-236 - Mimic ''Crabs''
 SCP-237 - Self-Made Man
 SCP-238 - Building Complex
 SCP-239 - The Witch Child
 SCP-240 - Draw me a Plane
 SCP-241 - Good Home Cooking
-SCP-242 - Self "Cleaning" Pool
+SCP-242 - Self ''Cleaning'' Pool
 SCP-243 - Animation
 SCP-244 - Ice Fog Jar
 SCP-245 - SCP-RPG
@@ -264,7 +264,7 @@ SCP-259 - The Weisenglass Spiral
 SCP-260 - The Tracking Stone
 SCP-261 - Pan-Dimensional Vending
 SCP-262 - A Coat of Many Arms
-SCP-263 - "Cash or Ash"
+SCP-263 - ''Cash or Ash''
 SCP-264 - Skeleton Temple
 SCP-265 - Black Volga
 SCP-266 - Will o' the Wisp
@@ -289,7 +289,7 @@ SCP-284 - The Twins
 SCP-285 - A Hack Job
 SCP-286 - The Brothers' Game
 SCP-287 - Clark's Third Favorite Sword
-SCP-288 - The "Stepford Marriage" Rings
+SCP-288 - The ''Stepford Marriage'' Rings
 SCP-289 - Inertial Amplifier
 SCP-290 - The Picasso Machine
 SCP-291 - Disassembler/Reassembler
@@ -298,12 +298,12 @@ SCP-293 - Obsession
 SCP-294 - The Coffee Machine
 SCP-295 - Cauterpillers
 SCP-296 - Armed Containment Site-03
-SCP-297 - "Steely Dan"
+SCP-297 - ''Steely Dan''
 SCP-298 - The Blood Organ
 SCP-299 - Infectious Tree
 
 300 to 399
-SCP-300 - "A World in a Bottle"
+SCP-300 - ''A World in a Bottle''
 SCP-301 - Teleporter
 SCP-302 - Ant Sculpture
 SCP-303 - The Doorman
@@ -325,7 +325,7 @@ SCP-318 - Soul Press
 SCP-319 - A Curious Device
 SCP-320 - Higgs Field Acceleration Manipulator
 SCP-321 - N/A
-SCP-322 - "Grow Your Own Castle" Kit
+SCP-322 - ''Grow Your Own Castle'' Kit
 SCP-323 - Wendigo Skull
 SCP-324 - Eulogy Shrub
 SCP-325 - The Detergent
@@ -334,34 +334,34 @@ SCP-327 - The Mermaid
 SCP-328 - Alien Disc
 SCP-329 - The Cancer Garden
 SCP-330 - Take Only Two
-SCP-331 - "Tumbles"
+SCP-331 - ''Tumbles''
 SCP-332 - The 1976 Kirk Lonwood High School Marching Band
 SCP-333 - City in a Symphony
 SCP-334 - Stellar Vulpine
-SCP-335 - One Hundred and Fifty 3.5" Floppy Disks
-SCP-336 - "Lilith"
+SCP-335 - One Hundred and Fifty 3.5'' Floppy Disks
+SCP-336 - ''Lilith''
 SCP-337 - Hairball
 SCP-338 - A Portable Radio
 SCP-339 - Be Silent, Be Still
 SCP-340 - Viral Rebreather Membrane
 SCP-341 - A Collection of Extra-Solar Orreries
 SCP-342 - A Ticket to Ride
-SCP-343 - "God"
+SCP-343 - ''God''
 SCP-344 - Schrödinger's Can Opener
 SCP-345 - Stone Puzzle Cube
-SCP-346 - "Pterry" the Pterodactyl
+SCP-346 - ''Pterry'' the Pterodactyl
 SCP-347 - The Invisible Woman
 SCP-348 - A Gift from Dad
 SCP-349 - The Philosopher's Stone and the Graveyard of the Immortals
 SCP-350 - Unbreakable Contract
 SCP-351 - Read-Only Memory
-SCP-352 - "Baba Yaga"
-SCP-353 - "Vector"
+SCP-352 - ''Baba Yaga''
+SCP-353 - ''Vector''
 SCP-354 - The Red Pool
 SCP-355 - The Serrated Lawn
 SCP-USA64-356 - Figures on the Shore
 SCP-357 - Hungry Clay
-SCP-358 - A "Deserted" Hospital
+SCP-358 - A ''Deserted'' Hospital
 SCP-359 - The Hawk
 SCP-360 - Ascendance
 SCP-361 - Bronze Liver
@@ -450,7 +450,7 @@ SCP-441 - Jacob Ram
 SCP-442 - On-Time Piece
 SCP-443 - Thought-streaming Crayons
 SCP-444 - The Language of Global Harmony
-SCP-445 - "Dr. Wondertainment's Super Paper"
+SCP-445 - ''Dr. Wondertainment's Super Paper''
 SCP-446 - Human Mannequin
 SCP-447 - Ball of Green Slime
 SCP-448 - Jack-in-the-Box
@@ -609,20 +609,20 @@ SCP-598 - Sentient Color
 SCP-599 - Uncharted City
 
 600 to 699
-SCP-600 - "That Guy"
+SCP-600 - ''That Guy''
 SCP-601 - Sophocles' Chorus
 SCP-602 - The Sculptor of SoHo
 SCP-603 - Self-Replicating Computer Program
 SCP-604 - The Cannibal's Banquet; A Corrupted Ritual
 SCP-605 - Living Storm Cloud
-SCP-606 - "The Teacher"
+SCP-606 - ''The Teacher''
 SCP-607 - Dorian the Grey Cat
 SCP-608 - Fractal Tinsel
 SCP-609 - Dr. Wondertainment's Ontological 6-Balls®
 SCP-610 - The Flesh that Hates
 SCP-611 - Parasitic Toothpick
 SCP-612 - Aggressive Cable
-SCP-613 - "Wonder Bread!"
+SCP-613 - ''Wonder Bread!''
 SCP-614 - IP Address 57.32.███.███
 SCP-615 - Stick Blob
 SCP-616 - The Vessel and the Gate
@@ -633,7 +633,7 @@ SCP-620 - Time Keeps on Slipping
 SCP-621 - Hypnobulbs
 SCP-622 - Desert in a Can
 SCP-623 - One Groovy Room
-SCP-624 - "Personal" Music Player
+SCP-624 - ''Personal'' Music Player
 SCP-625 - Anklebiters
 SCP-626 - Vision-Altering Sculpture
 SCP-627 - Conceptual Numeristic Overload
@@ -667,7 +667,7 @@ SCP-654 - Thunderhorn
 SCP-655 - Rip in the Fabric
 SCP-656 - Home Edition
 SCP-657 - Death-predicting Man
-SCP-658 - "Botflies"
+SCP-658 - ''Botflies''
 SCP-659 - Communal Avian Intelligence
 SCP-660 - Earthen Womb
 SCP-661 - Salesman, Too Good to Be True
@@ -677,7 +677,7 @@ SCP-664 - The Floor to Nowhere
 SCP-665 - The Garbage Man
 SCP-666 - Spirit Lodge
 SCP-667 - Fairy Kudzu
-SCP-668 - 13" Chef's Knife
+SCP-668 - 13'' Chef's Knife
 SCP-669 - A Didactic Perspective
 SCP-670 - Family of Cotton
 SCP-671 - Deconstructing Ants
@@ -766,10 +766,10 @@ SCP-751 - Organ Eater
 SCP-752 - Altruistic Utopia
 SCP-753 - Automatic Artist
 SCP-754 - Illustrated Climbing Vine
-SCP-755 - "Watch for the white bird"
+SCP-755 - ''Watch for the white bird''
 SCP-756 - Miniature Solar System
 SCP-757 - The Fruit Tree
-SCP-758 - Spell Check - "Vasili"
+SCP-758 - Spell Check - ''Vasili''
 SCP-759 - Sourdough Starter
 SCP-760 - The Groomers
 SCP-761 - Slightly Less Dangerous Trampoline
@@ -856,7 +856,7 @@ SCP-839 - Candied Worms
 SCP-840 - Drain Feeder
 SCP-841 - Reverse Mirror Voodoo Doll Stick Puppet
 SCP-842 - Operations Table
-SCP-843 - "Cow Seeds"
+SCP-843 - ''Cow Seeds''
 SCP-844 - Crybaby
 SCP-845 - Liquid Polecat
 SCP-846 - Robo-Dude
@@ -1056,7 +1056,7 @@ SCP-1036 - Nkondi
 SCP-1037 - Rotbolt
 SCP-1038 - An RCA Cable
 SCP-1039 - The Gathering Doll
-SCP-1040 - "Daniel"
+SCP-1040 - ''Daniel''
 SCP-1041 - Multiple Pasts Disorder
 SCP-1042 - Ghost Stone
 SCP-1043 - Instant Structures
@@ -1124,7 +1124,7 @@ SCP-1102 - The Blue Ridge Phenomenon
 SCP-1103 - Dr. Wondertainment Young Surgeon's Transplant Kit
 SCP-1104 - Nose Crab
 SCP-1105 - Neural Polypore
-SCP-1106 - "Grow Your Own Child" Kit
+SCP-1106 - ''Grow Your Own Child'' Kit
 SCP-1107 - A Signal
 SCP-1108 - A Swamp God
 SCP-1109 - The Painkiller
@@ -1210,7 +1210,7 @@ SCP-1188 - Matter-Displacing Flashlight
 SCP-1189 - The Sound
 SCP-1190 - Universal Simulator
 SCP-1191 - Criminal Past
-SCP-1192 - "Timmy"
+SCP-1192 - ''Timmy''
 SCP-1193 - Buried Giant
 SCP-1194 - Damaged Toy Horse
 SCP-1195 - Child's Storybook
@@ -1279,7 +1279,7 @@ SCP-1255 - Grapes from Dawn Farm and Ranch
 SCP-1256 - Bees Are Smarter Than You Think
 SCP-1257 - Agent Danny of the SCP
 SCP-1258 - The Way of the Masters
-SCP-1259 - "The Ancient Prophecy"
+SCP-1259 - ''The Ancient Prophecy''
 SCP-1260 - HMS Tiresias
 SCP-1261 - Memetic Emu
 SCP-1262 - Seed of Destruction
@@ -1363,7 +1363,7 @@ SCP-1337 - N/A
 SCP-1338 - Child of Trees
 SCP-1339 - Justified Badge
 SCP-1340 - The Fraternal Order of Cave Mantas
-SCP-1341 - "JUNGLE IN A JAR"
+SCP-1341 - ''JUNGLE IN A JAR''
 SCP-1342 - To the Makers of Music
 SCP-1343 - Pile Up
 SCP-1344 - Eye-Catching Goggles
@@ -1480,7 +1480,7 @@ SCP-1452 - Terrible Home Additions
 SCP-1453 - Opalus Probandi
 SCP-1454 - Sibling Rivalry
 SCP-1455 - Lagging Door
-SCP-1456 - "You've Won!"
+SCP-1456 - ''You've Won!''
 SCP-1457 - Mourning Cloak
 SCP-1458 - The Tired Mother
 SCP-1459 - The Puppy Machine
@@ -1510,10 +1510,10 @@ SCP-1482 - Mutilated Animal House
 SCP-1483 - The Third Antarctic Empire
 SCP-1484 - Lie Group SITE(17)
 SCP-1485 - Normality
-SCP-1486 - "Benny"
+SCP-1486 - ''Benny''
 SCP-1487 - Beautiful Bones
 SCP-1488 - Partially Roboticized Tortoises
-SCP-1489 - A "Ghost Train"
+SCP-1489 - A ''Ghost Train''
 SCP-1490 - Animal Sculptor
 SCP-1491 - Camera man
 SCP-1492 - Ill-Begotten Gains
@@ -1789,7 +1789,7 @@ SCP-1755 - Cotton Blight
 SCP-1756 - At the Movies
 SCP-1757 - Recorded Curio
 SCP-1758 - O Mio Babbino Caro
-SCP-1759 - "Lovely Lucy"
+SCP-1759 - ''Lovely Lucy''
 SCP-1760 - Casket Garden
 SCP-1761 - The Republic of Arnold Fitzwilliams
 SCP-1762 - Where The Dragons Went
@@ -1802,7 +1802,7 @@ SCP-1768 - Floor Games
 SCP-1769 - The Beloved
 SCP-1770 - The Maker of Chains
 SCP-1771 - Seasonal House
-SCP-1772 - "Egg" Allergy
+SCP-1772 - ''Egg'' Allergy
 SCP-1773 - Gumi Beeps
 SCP-1774 - The Proof's Equipment
 SCP-1775 - Retail Specters
@@ -1834,7 +1834,7 @@ SCP-1799 - Mr. Laugh
 1800 to 1899
 SCP-1800 - The Minotaur
 SCP-1801 - Sharing Sickness
-SCP-1802 - "Skip"
+SCP-1802 - ''Skip''
 SCP-1803 - The Collage
 SCP-1804 - Underwood #5
 SCP-1805 - A Real Doll
@@ -2015,7 +2015,7 @@ SCP-1977 - Eye of the Storm
 SCP-1978 - Imperfect Redemption
 SCP-1979 - Relativistic Treadmill
 SCP-1980 - Alien Invasion
-SCP-1981 - "RONALD REAGAN CUT UP WHILE TALKING"
+SCP-1981 - ''RONALD REAGAN CUT UP WHILE TALKING''
 SCP-1982 - First Southern Fifthist
 SCP-1983 - Doorway to Nowhere
 SCP-1984 - Mr. Shadows
@@ -2033,7 +2033,7 @@ SCP-1995 - Infinite Devil Machine
 SCP-1996 - Tourist Trap
 SCP-1997 - Endless Activity Book
 SCP-1998 - Concentration Enhancer, Standard
-SCP-1999 - "Loewes"
+SCP-1999 - ''Loewes''
 2000 to 2099
 SCP-2000 - Deus Ex Machina
 SCP-2001 - A Space Oddity
@@ -2096,7 +2096,7 @@ SCP-2057 - You Are What You Eat
 SCP-2058 - Smith Jim
 SCP-2059 - Wall of Flesh
 SCP-2060 - We Burn Every Day
-SCP-2061 - "Entire Local Family Chokes To Death On Single Calculator"
+SCP-2061 - ''Entire Local Family Chokes To Death On Single Calculator''
 SCP-2062 - Kronecker
 SCP-2063 - A Past Vision of the Future
 SCP-2064 - Mayhem Dressed in a Suit
@@ -2111,7 +2111,7 @@ SCP-2072 - Prime Ministerial Pet Cemetery
 SCP-2073 - One Last Lullaby
 SCP-2074 - Sinkbait
 SCP-2075 - The Way of All Flesh
-SCP-2076 - "Shooting Yourself Can Increase Your Bullet Resistance"
+SCP-2076 - ''Shooting Yourself Can Increase Your Bullet Resistance''
 SCP-2077 - Miracle Stuff
 SCP-2078 - Third Party
 SCP-2079 - The Law of the Grokodus
@@ -2196,7 +2196,7 @@ SCP-2155 - The Mexica Government in Exile
 SCP-2156 - Red and Black
 SCP-2157 - The Human Forest
 SCP-2158 - The Gun That Never Misses
-SCP-2159 - Head-"Kannon"
+SCP-2159 - Head-''Kannon''
 SCP-2160 - The Happy Place
 SCP-2161 - Blank Space
 SCP-2162 - … as normal as blueberry pie
@@ -2211,7 +2211,7 @@ SCP-2170 - The Clown Vaccine
 SCP-2171 - Autumn Shepherds
 SCP-2172 - This Light Never Turns Green
 SCP-2173 - An Interdimensional Mexican Standoff
-SCP-2174 - "Miranda"
+SCP-2174 - ''Miranda''
 SCP-2175 - Are You Going
 SCP-2176 - Ghostlight™
 SCP-2177 - Yellow Journal Infection
@@ -2228,9 +2228,9 @@ SCP-2187 - Juĝo Nova
 SCP-2188 - Amnesthesiologic Conceptual Overload
 SCP-2189 - Clockwork Fruit
 SCP-2190 - Phone calls from Mom
-SCP-2191 - "Dracula Factory"
-SCP-2192 - "Milaya," the Atomic Child
-SCP-2193 - "Monthly Termination"
+SCP-2191 - ''Dracula Factory''
+SCP-2192 - ''Milaya,'' the Atomic Child
+SCP-2193 - ''Monthly Termination''
 SCP-2194 - Filth
 SCP-2195 - Sons of the Nation
 SCP-2196 - The Deep Mote
@@ -2276,8 +2276,8 @@ SCP-2233 - Sociosophy
 SCP-2234 - Great Deals on Pineal Removal
 URA-9611 - The Ozymandias Effect
 SCP-2236 - Optical Instrument
-SCP-2237 - "There is always a cost…"
-SCP-2238 - "Broadcasting Live From Out of Time"
+SCP-2237 - ''There is always a cost…''
+SCP-2238 - ''Broadcasting Live From Out of Time''
 SCP-2239 - Gatherer of Gratitudes
 SCP-2240 - Young Floridian Couple
 SCP-2241 - Cameron The Crusader
@@ -2286,7 +2286,7 @@ SCP-2243 - Peep Peepers
 SCP-2244 - Partition E
 SCP-2245 - A Dream's Nightmare
 SCP-2246 - You Set the Scene
-SCP-2247 - "What did I go through to seek a new employer?"
+SCP-2247 - ''What did I go through to seek a new employer?''
 SCP-2248 - The Temple of Luna Primogenita
 SCP-2249 - The Failed Dreamland
 SCP-2250 - Duck Hunt
@@ -2345,7 +2345,7 @@ SCP-2300 - Periodic Golems
 SCP-2301 - Slayer's Song
 SCP-2302 - The Ditz
 SCP-2303 - Inkblot
-SCP-2304 - "Like This Image To Die Instantly"
+SCP-2304 - ''Like This Image To Die Instantly''
 SCP-2305 - great ideas that are TOTALY USELESS (lulz)
 SCP-2306 - Revenant AI
 SCP-2307 - The Pen Is Mightier
@@ -2378,7 +2378,7 @@ SCP-2333 - One Week To Live
 SCP-2334 - Every Possible Photograph
 SCP-2335 - The Filmmaker
 SCP-2336 - The Word
-SCP-2337 - "Dr. Spanko"
+SCP-2337 - ''Dr. Spanko''
 SCP-2338 - An Unorthodox Adoption
 SCP-2339 - Bumblebee Philharmonic Orchestra
 SCP-2340 - Homesick Hills
@@ -2489,7 +2489,7 @@ SCP-2442 - Sometimes Therapy Is Merely Painful Truths
 SCP-2443 - A Heap of Deloaches
 SCP-2444 - Flea Circus
 SCP-2445 - Wondertainment Logistics
-SCP-2446 - Mobile Task Force Lambda-5 ("White Rabbits")
+SCP-2446 - Mobile Task Force Lambda-5 (''White Rabbits'')
 SCP-2447 - Modular Animals
 SCP-2448 - Castle of Guillaume the Guildmaster
 SCP-2449 - Unexpected Confinement
@@ -2500,7 +2500,7 @@ SCP-2453 - Pregnancy Test
 SCP-2454 - How To Train Your Axolotl
 SCP-2455 - Possibilities Girl
 SCP-2456 - Dreams of a Broken World
-SCP-2457 - 母を見たい ("haha o mitai")
+SCP-2457 - 母を見たい (''haha o mitai'')
 SCP-2458 - Music Hath Charms
 SCP-2459 - When the Traffic Clears
 SCP-2460 - Dark Satellite
@@ -2508,7 +2508,7 @@ SCP-2461 - Aftermath
 SCP-2462 - I'm so tired of fake friends, drama, liars, being ignored, and getting hurt
 SCP-2463 - An Emperor's Debt
 SCP-2464 - Suspension
-SCP-2465 - "Sadness is Temporary"
+SCP-2465 - ''Sadness is Temporary''
 SCP-2466 - Slay Dragon Save City
 SCP-2467 - A Sum Greater Than Its Parts
 SCP-2468 - Wounded Child
@@ -2596,7 +2596,7 @@ SCP-2547 - Dog Days Of Summer
 SCP-2548 - The Friendly Vacuum
 SCP-2549 - Animal Assassins
 SCP-2550 - Depressed Albatross
-SCP-2551 - "I could've sworn I just saw…"
+SCP-2551 - ''I could've sworn I just saw…''
 SCP-2552 - A Delusion's Desperation
 SCP-2553 - Juridical Person
 SCP-2554 - Duckweed
@@ -2604,7 +2604,7 @@ SCP-2555 - Growing Up
 SCP-2556 - Indefinitely Suspended Stratojet
 SCP-2557, A Holding of Envelope Logistics® - A Holding of Envelope Logistics®
 SCP-2558 - Horseshoe Beach First Baptist Church (Relocated)
-SCP-2559 - "I've Heard There's Something Going Around"
+SCP-2559 - ''I've Heard There's Something Going Around''
 SCP-2560 - Polar Opposites
 SCP-2561 - Pet Radio Mast
 SCP-2562 - RTFM
@@ -2623,7 +2623,7 @@ SCP-2574 - What Rough Beast
 SCP-2575 - Dreaming of Outer Space
 SCP-2576 - Joseph and the Technicolor Dream Goat
 SCP-2577 - Falling Ships
-SCP-2578 - "This Machine Kills Fascists"
+SCP-2578 - ''This Machine Kills Fascists''
 SCP-2579 - Grail's Dancing Bears
 SCP-2580 - Father-Daughter Project
 SCP-2581 - Greeting Card Rapture
@@ -2689,7 +2689,7 @@ SCP-2638 - Alone in a Crowded Room
 SCP-2639 - Video Game Violence
 SCP-2640 - The Gurdon Lights
 SCP-2641 - The Talk Spore
-SCP-2642 - "Half of an Elephant's Face"
+SCP-2642 - ''Half of an Elephant's Face''
 SCP-2643 - A Remembered Pet
 SCP-2644 - LostPerson
 SCP-2645 - Through the Looking Glass
@@ -2854,7 +2854,7 @@ SCP-2799 - The Navigator
 SCP-2800 - Cactusman
 SCP-2801 - All Your Brains Are Belong To Us
 SCP-2802 - Un-woodpeckers
-SCP-2803 - TotleighSoft - "Because COMPUTERS!"™
+SCP-2803 - TotleighSoft - ''Because COMPUTERS!''™
 SCP-2804 - Fire and Forget
 SCP-2805 - Disney on Ice
 SCP-2806 - We Have the Technology
@@ -2881,7 +2881,7 @@ SCP-2826 - The Boys From Patrol
 SCP-2827 - Probably a Lobster
 SCP-2828 - Antimemetic Body Part
 SCP-2829 - Liposlugtion
-SCP-2830 - "the Knowledge"
+SCP-2830 - ''the Knowledge''
 SCP-2831 - The Forest Men of ███████
 SCP-2832 - Hubris
 SCP-2833 - Lineage of Vaski
@@ -3017,7 +3017,7 @@ SCP-2960 - The Show MUST Go On…
 SCP-2961 - Los Ocultos
 SCP-2962 - Supacansa
 SCP-2963 - A D-Class, a Sarkicist, and a Yithian walk into a reality bender…
-SCP-2964 - "Xtreme Videozzz"
+SCP-2964 - ''Xtreme Videozzz''
 SCP-2965 - A Pony Express
 SCP-2966 - InfiniTP
 SCP-2967 - Sapient Cephalopods
@@ -3044,7 +3044,7 @@ SCP-2987 - Invictus
 SCP-2988 - Folly of the Fruit Eater
 SCP-2989 - Of Bookworms, Bamboo, and Beating Hearts.
 SCP-2990 - Silently Soaring
-SCP-2991 - "Scarf"
+SCP-2991 - ''Scarf''
 SCP-2992 - Everything Flows Towards Cadence
 SCP-2993 - A Pair of Sunglasses
 SCP-2994 - Interactive Whiteboards
@@ -3083,7 +3083,7 @@ SCP-3025 - Lucidity
 SCP-3026 - Fashionable Neurovore
 SCP-3027 - Strong Language
 SCP-3028 - Take On Me
-SCP-3029 - KIC 8462852 ("Tabby's Star")
+SCP-3029 - KIC 8462852 (''Tabby's Star'')
 SCP-3030 - Specialized Containment Proficiency Test
 SCP-3031 - Future Gift
 SCP-3032 - Ballistic Trees
@@ -3275,7 +3275,7 @@ SCP-3213 - F*ck off Carl.
 SCP-3214 - Star Quality
 SCP-3215 - Delicious Anemone
 SCP-3216 - Three Buildings in New York City
-SCP-3217 - Mail "H" for "Hero".
+SCP-3217 - Mail ''H'' for ''Hero''.
 SCP-3218 - Animals in Boxes
 SCP-3219 - This Sour Earth
 SCP-3220 - Panopticon II
@@ -3362,7 +3362,7 @@ SCP-3299 - ONE WEIRD TRICK! (YOU WON'T BELIEVE NUMBER 8!!!!)
 3300 to 3399
 SCP-3300 - The Rain
 SCP-3301 - THE FOUNDATION
-SCP-3302 - "The Jim Look"
+SCP-3302 - ''The Jim Look''
 SCP-3303 - Champagne Supernova
 SCP-3304 - That Time the Foundation Froze Hell
 SCP-3305 - The Father, The Son, and The Holy Toast
@@ -3472,7 +3472,7 @@ SCP-3406 - Awakening
 SCP-3407 - ¢10 Per Ticket
 SCP-3408 - Welcome to Site-3408
 SCP-3409 - The Chocolate Factory
-SCP-3410 - "It's just fucking golf!"
+SCP-3410 - ''It's just fucking golf!''
 SCP-3411 - THE NEW YORK'S GLORIOUS CHILDREN'S BATALLION
 SCP-3412 - Life in a Peaceful New World
 SCP-3413 - Irwin Shrugged
@@ -3568,11 +3568,11 @@ SCP-3500 - Instructions Unclear, Got Dick Stuck in Canon 🍆➡️📕
 SCP-3501 - The Storyteller of Isfahan
 SCP-3502 - The Kangaroo Sign
 SCP-3503 - Panic is Pure, Trauma is True, Suffering is Sweet, and Death's a Delight
-SCP-3504 - "And how will we know you are one of us?"
+SCP-3504 - ''And how will we know you are one of us?''
 SCP-3505 - Singed, Sealed, Delivered, I'm Yours
 SCP-3506 - The Reading of the Will
 SCP-3507 - Father, This Day I Bring You True Glory
-SCP-3508 - "Cute and soft! Kill them off!"
+SCP-3508 - ''Cute and soft! Kill them off!''
 SCP-3509 - The Test Chamber
 SCP-3510 - Not Another New World Order!
 SCP-3511 - Reach Out And Touch
@@ -3606,7 +3606,7 @@ SCP-3538 - THE GREATEST CARABINER EVER
 SCP-3539 - So That Others May Live
 SCP-3540 - Don't Queer the Reaper
 SCP-3541 - Twice as Bright
-SCP-3542 - "Fear Not, Citizen!"
+SCP-3542 - ''Fear Not, Citizen!''
 SCP-3543 - One, Two, Four
 SCP-3544 - Home is Where the Heart Was
 SCP-3545 - The Places You'll Never Go
@@ -3744,7 +3744,7 @@ SCP-3674 - The Loss of Sector H
 SCP-3675 - The Void Called
 SCP-3676 - The Multiversal Megapede
 SCP-3677 - Paradix High School: Paradise for the Paranormal
-SCP-3678 - "It's Not That Anomalous."
+SCP-3678 - ''It's Not That Anomalous.''
 SCP-3679 - Make a Geas, Foundation
 SCP-3680 - The White Guys
 SCP-3681 - 5 - 0
@@ -3763,7 +3763,7 @@ SCP-3693 - Postscript - Through A Glass, Darkly
 SCP-3694 - America's Diner Is Always Open
 SCP-3695 - The Surfboard
 SCP-3696 - The Greatest Attractor
-SCP-3697 - "Let Me Redirect You Right Now"
+SCP-3697 - ''Let Me Redirect You Right Now''
 SCP-3698 - Fresh Pine
 SCP-3699 - Memoirs of a Shingle Beach
 
@@ -3810,7 +3810,7 @@ SCP-3738 - Casting Lots
 SCP-3739 - Mind-Milk™ by Moosphere, Inc.
 SCP-3740 - God Is Dumb
 SCP-3741 - The World Is Your Oyster
-SCP-3742 - A "Live" Album
+SCP-3742 - A ''Live'' Album
 SCP-3743 - Euboea, Son of Briareos
 SCP-3744 - Dungeons And D-Class Personnel
 SCP-3745 - As the Heart Breaks, so do the Heavens
@@ -3880,7 +3880,7 @@ SCP-3806 - I AM AWAITED IN VALHALLA!
 SCP-3807 - A Real Bad Hombre
 SCP-3808 - Bacon Cheeseburger That Demands Justification
 SCP-3809 - Love in the Time of Algorithms
-SCP-3810 - Angela Carter Presents: "The Saltwater Heart"
+SCP-3810 - Angela Carter Presents: ''The Saltwater Heart''
 SCP-3811 - A Therapist Needs A Therapist
 SCP-3812 - A Voice Behind Me
 SCP-3813 - The Fall of Hyperion
@@ -4044,7 +4044,7 @@ SCP-3968 - Immoral Minefield
 SCP-3969 - Sucker
 SCP-3970 - i want to contain too
 SCP-3971 - Utility Closet SB3-117a
-SCP-3972 - "Ken Burns Presents: SCP-3972"
+SCP-3972 - ''Ken Burns Presents: SCP-3972''
 SCP-3973 - Would you like to re-roll?
 SCP-3974 - Such Sweet Sorrow
 SCP-3975 - Save the Oreos
@@ -4063,7 +4063,7 @@ SCP-3987 - Purifying Exclamation
 SCP-3988 - Napoleon Bonyparts, Superstar Skeleton
 SCP-3989 - The Bone Orchard
 SCP-3990 - Deer in the Headroom
-SCP-3991 - "Lewis Island"
+SCP-3991 - ''Lewis Island''
 SCP-3992 - Wondertainment Whacky Halloween Fun Masks!
 SCP-3993 - Smart WIFI
 SCP-3994 - Normal Human People
@@ -4099,7 +4099,7 @@ SCP-4022 - Great Big Nothing
 SCP-4023 - The Inexplainable Nature of Twenty Three
 SCP-4024 - Puddle in the Gobi Desert
 SCP-4025 - Blutfahne
-SCP-4026 - guardian "angel"
+SCP-4026 - guardian ''angel''
 SCP-4027 - Anomalous Dissociative Identity
 SCP-4028 - La Historia de Don Quixote de la Mancha
 SCP-4029 - Too Many Legs to be Going Nowhere
@@ -4137,7 +4137,7 @@ SCP-4060 - Memory Merchant
 SCP-4061 - Unphotographable
 SCP-4062 - Soggy Doggy
 SCP-4063 - What Remains
-SCP-4064 - "It's not you, it's us"
+SCP-4064 - ''It's not you, it's us''
 SCP-4065 - Ancho(red) Reality
 SCP-4066 - The Byzantine Empire Was Secretly Aliens
 SCP-4067 - Effigies From The Swarm
@@ -4216,7 +4216,7 @@ SCP-4137 - Hyper-Axial Nintendocore Overdose
 SCP-4138 - To the Stars
 SCP-4139 - Fridge Backpack
 SCP-4140 - Sarkic Containment Procedures
-SCP-4141 - "You: The Real-Time Autobiography"
+SCP-4141 - ''You: The Real-Time Autobiography''
 SCP-4142 - Stellaraptor
 SCP-4143 - Infinitestine
 SCP-4144 - The Most Important Meal Of The Day
@@ -4369,7 +4369,7 @@ SCP-4288 - Your Dirty Little Secret
 SCP-4289 - The Bunyip
 SCP-4290 - The Child Hungers
 SCP-4291 - The Little Death
-SCP-4292 - "herbie fucker really very good circus of the unsettle by dado"
+SCP-4292 - ''herbie fucker really very good circus of the unsettle by dado''
 SCP-4293 - In One Man’s Honour, A Dossier Of unBÄRable Solitude
 SCP-4294 - In the Cold Shadow of her Ovary Tower
 SCP-4295 - A Homebody
@@ -4488,14 +4488,14 @@ SCP-4403 - The Silent Crusade
 SCP-4404 - The Scent of Silence
 SCP-4405 - Time Ends on a Fridays
 SCP-4406 - SUDDEN THUNDER
-SCP-4407 - "TelaV, the Punishing Demon"
+SCP-4407 - ''TelaV, the Punishing Demon''
 SCP-4408 - It's not the Foundation that he's afraid of.
 SCP-4409 - The Elephant Man
 SCP-4410 - The Ongoing Development of an Art Form
 SCP-4411 - At Long Last Landing
 SCP-4412 - What Could Have Been?
 SCP-4413 - The End of Something Really Excellent
-SCP-4414 - "PEEL"
+SCP-4414 - ''PEEL''
 SCP-4415 - Humanoid Containment Chamber #λ045
 SCP-4416 - Tails of Site-42: Why The Foundation Punches Sharks
 SCP-4417 - The Long Way Round
@@ -4510,7 +4510,7 @@ SCP-4425 - Chef Arkady's Canned Surprise!
 SCP-4426 - The Unforgettable Fire
 SCP-4427 - Nobody Stands for the People
 Dr. Michaels - Dr. Michaels is not in danger.
-SCP-4429 - William Shatner's Cover of "Common People"
+SCP-4429 - William Shatner's Cover of ''Common People''
 SCP-4430 - The Faceless Live In Evanholly
 SCP-4431 - Bleeding Beneath Antarctica
 SCP-4432 - mr mister by dado
@@ -4572,7 +4572,7 @@ SCP-4487 - The Sermon Will Continue
 SCP-4488 - Thalassophobia
 SCP-4489 - Apologies
 SCP-4490 - Cruel To Be Kind
-SCP-4491 - "pulp ficktion"
+SCP-4491 - ''pulp ficktion''
 SCP-4492 - Umbrella In The Toilet
 SCP-4493 - Keep Pride Out of Corps
 SCP-4494 - The Specter Fights For Justice!
@@ -4691,7 +4691,7 @@ SCP-4602 - The Money-ki Neko
 SCP-4603 - The Ballad of Frank and Mia; Written and Composed in B-Major
 SCP-4604 - Disillusionment
 SCP-4605 - E.T. the Earthen Totality
-SCP-4606 - "Deimos"
+SCP-4606 - ''Deimos''
 SCP-4607 - Whalefall City
 SCP-4608 - Appleseed
 SCP-4609 - An Object
@@ -4800,7 +4800,7 @@ SCP-4709 - At The Risk Of Sounding Repetitive
 SCP-4710 - Sheen Gojira
 SCP-4711 - The Inconvenience Store
 SCP-4712 - A Failure of Purpose
-SCP-4713 - "Astromoles"
+SCP-4713 - ''Astromoles''
 SCP-4714 - My Unicorn Friend
 SCP-4715 - A Demon Born of War
 SCP-4716 - The Plutovore's Cookbook
@@ -4819,7 +4819,7 @@ SCP-4728 - God of THIS Sea, at least…
 SCP-4729 - Beauty From Pain
 SCP-4730 - Reinventive Design for Abnormally Dense Cars
 SCP-4731 - Sublunary Skybox
-SCP-4732 - "Frank Sinatra and Dean Martin: Our Kind of Paradise!"
+SCP-4732 - ''Frank Sinatra and Dean Martin: Our Kind of Paradise!''
 SCP-4733 - But Not Forgotten
 SCP-4734 - The K-T Extinction Bootstrap
 SCP-4735 - You're alight again, my dear.
@@ -4928,7 +4928,7 @@ SCP-4835 - Beef With Beef With Beef With Beef With Beef With Beef With Beef With
 SCP-4836 - I Love You Beary Much
 SCP-4837 - Duck Tales, Dragon Tales
 SCP-4838 - Lover's Quarrel
-SCP-4839 - FAFNIR - or, "I Caress It, 'Cause I Possess It!"
+SCP-4839 - FAFNIR - or, ''I Caress It, 'Cause I Possess It!''
 SCP-4840 - The Demon Lancelot and the Flying City of Audapaupadopolis
 SCP-4841 - St. John of the Blood-Smeared Cross
 SCP-4842 - The Disintegration Loops
@@ -4943,9 +4943,9 @@ SCP-4850 - Madness Leaks Through a Broken Seal
 SCP-4851 - Artificial Selection
 SCP-4852 - Site-19 Goes South For The Winter!
 SCP-4853
-SCP-4854 - The "Real" Necronomicon and other Godawful Occult Manuscripts
+SCP-4854 - The ''Real'' Necronomicon and other Godawful Occult Manuscripts
 SCP-4855 - Mind Like a Steel Trap
-SCP-4856 - "Test Case One"
+SCP-4856 - ''Test Case One''
 SCP-4857 - [DESIGNATION AVAILABLE]
 SCP-4858 - But the Rock Cried Out, No Hiding Place
 SCP-4859 - A Game We Play
@@ -5001,7 +5001,7 @@ SCP-4906 - On the Sixth Month Gale
 SCP-4907 - Poetry Gnomes
 SCP-4908 - Story of my Life
 SCP-4909 - Octopus' Garden
-SCP-4910 - "The Grinner"
+SCP-4910 - ''The Grinner''
 SCP-4911 - Mound
 SCP-4912 - With Great Power
 SCP-4913 - 5-Star [REDACTED]
@@ -5022,7 +5022,7 @@ SCP-4927 - Hammer, Anvil and Fish
 SCP-4928 - The Wishing Well
 SCP-4929 - Lake of Rage
 SCP-4930 - Lennon/McCartney
-SCP-4931 - "Tis But a Scratch."
+SCP-4931 - ''Tis But a Scratch.''
 SCP-4932 - Sadly, Nothing Lasts Forever
 SCP-4933 - We Interrupt This Broadcast
 SCP-4934 - The House That Chuck Built
@@ -5132,7 +5132,7 @@ SCP-5036 - Yo Ho, Yo Ho, An Archetype for Thee
 SCP-5037 - Unsolved
 SCP-5038 - La Rue Macabre is CLOSED
 SCP-5039 - Where Did You Go?
-SCP-5040 - 血の涙 ("Tears of Blood")
+SCP-5040 - 血の涙 (''Tears of Blood'')
 SCP-5041 - The Man in the Iron Mask
 SCP-5042 - The not so funny pages
 SCP-5043 - dado's brainexplsoesenotsrsogsgsdgkpskplsdhpsd, …uh, the… do, the make the your brains have a blow splosion
@@ -5317,7 +5317,7 @@ SCP-5217 - 3D-extinction
 SCP-5218 - Preconceptions II
 SCP-5219 - A Completely Random Corpse
 SCP-5220 - The Lady of the Salt Lake
-SCP-5221 - "The Day After Tomorrow"
+SCP-5221 - ''The Day After Tomorrow''
 SCP-5222 - Lord Explosion's Pyrotechnic Playground and Daycare
 SCP-5223 - Your Own Personal Car Door to Hell
 SCP-5224 - Hecking Frogs
@@ -5413,7 +5413,7 @@ SCP-5311 - Who Goes There?
 SCP-5312 - AskSCP.com
 SCP-5313 - town of alma
 SCP-5314 - A fungal chance
-SCP-5315 - "Boneyard"
+SCP-5315 - ''Boneyard''
 SCP-5316 - The Interrogator and the Music Box
 SCP-5317 - Misdirection
 SCP-5318 - Los Ojos de Mi Padre
@@ -5441,7 +5441,7 @@ SCP-5339 - And He Rose Again With a Third Leg
 SCP-5340 - The Backyard Memeticist 😎
 SCP-5341 - The Knight
 SCP-5342 - Midsomer Murders
-SCP-5343 - The "For-You News" App!
+SCP-5343 - The ''For-You News'' App!
 SCP-5344 - An Uncertain Volume of Willow Ash
 SCP-5345 - Almost Heaven, West Korea
 SCP-5346 - GUMP
@@ -5495,7 +5495,7 @@ SCP-5393 - To whom it may concern, whales are now considered cavalry.
 SCP-5394 - Bless the Telephone
 SCP-5395 - Thought Bubbles
 SCP-5396 - The best that you could ever be.
-SCP-5397 - "Justice" (2024, melted human flesh on wall, 15 meters by 10 meters)
+SCP-5397 - ''Justice'' (2024, melted human flesh on wall, 15 meters by 10 meters)
 SCP-5398-D - Regrowing Pains
 SCP-5399 - Seriously, Just One Fly
 
@@ -5541,7 +5541,7 @@ SCP-5437 - A Beast Cast From Heaven
 SCP-5438 - BROKEN BONDS AND SHATTERED TIES
 SCP-5439 - Nose Itch
 SCP-5440 - Hotline Moses
-SCP-5441 - S03 E02 - "The Intern"
+SCP-5441 - S03 E02 - ''The Intern''
 SCP-5442 - A Broken Branch of the Bureau of Alcohol, Tobacco, Firearms and Explosives
 SCP-5443 - Apocalyptic evil? We got some in the back
 SCP-5444 - How To Disappear Completely
@@ -5740,7 +5740,7 @@ SCP-5632 - Goddess of True Reflections
 SCP-5633 - This Will Require A Great Amount of Blood
 SCP-5634 - The Agrarian Union of Neche
 SCP-5635 - Hello, this is space speaking
-SCP-5636 - الموت للعدو ("Death to the Enemy")
+SCP-5636 - الموت للعدو (''Death to the Enemy'')
 SCP-5637 - [Dead End]
 SCP-5638 - Bucket of Karkinos
 SCP-5639 - The Prospero Complex
@@ -5787,7 +5787,7 @@ SCP-5679 - The Ship's Cat
 SCP-5680 - The Bird Factory
 SCP-5681 - Gehenna Arcade
 SCP-5682 - A Brief Moment of Revelation
-SCP-5683 - "Will you walk into my parlour?" said a spider to a fly
+SCP-5683 - ''Will you walk into my parlour?'' said a spider to a fly
 SCP-5684 - Every Single Star
 SCP-5685 - The Airstream Con
 SCP-5686 - Thanks, I'm Cured.
@@ -5807,7 +5807,7 @@ SCP-5699 - Take Care of Yourself.
 
 5700 to 5799
 SCP-5700 - So Says I
-SCP-5701 - "Smile! Your Mistakes are on Camera!"
+SCP-5701 - ''Smile! Your Mistakes are on Camera!''
 SCP-5702 - 'www.wikiflick.███'
 SCP-5703 - When Lori Came Home For Christmas
 SCP-5704 - Digital Corruption
@@ -5959,8 +5959,8 @@ SCP-5847 - The Food's Court
 SCP-5848 - Purgatorius
 SCP-5849 - Dead Letter Arrival
 SCP-5850 - A Train to Hell
-SCP-5851 - "Y/N darling, You're the only one for Me!" (Slowburn, X Reader)
-SCP-5852 - "You've got teeth in your bugs."
+SCP-5851 - ''Y/N darling, You're the only one for Me!'' (Slowburn, X Reader)
+SCP-5852 - ''You've got teeth in your bugs.''
 SCP-5853 - Ticky Taffy Town
 SCP-5854 - safety park where things do not go wrong
 SCP-5855 - Foot by The Fruit
@@ -5975,7 +5975,7 @@ SCP-5863 - Myths Made Plain
 SCP-5864 - Sir Reginald
 SCP-5865 - Planet D-Class
 SCP-5866 - The Namesnake
-SCP-5867 - "Timber? I hardly know 'er!"
+SCP-5867 - ''Timber? I hardly know 'er!''
 SCP-5868 - Meat
 SCP-5869 - A Glimpse Of Our Future?
 SCP-5870 - To Make Koalas Fly in the Rain
@@ -6041,7 +6041,7 @@ SCP-5927 - The Norther' Light Phantom
 FATHER - FATHER and the ties that binds
 SCP-5929 - We Come In Piss
 SCP-5930 - Just a story
-SCP-5931 - "Oh, the Bullet Wound? It's Merely Hot Air."
+SCP-5931 - ''Oh, the Bullet Wound? It's Merely Hot Air.''
 SCP-5932-D - MTFinity
 SCP-5933 - And I Won't Forget You, My Love
 SCP-5934 - The Entangled Webs We Cleave
@@ -6311,7 +6311,7 @@ SCP-6194 - Guilty Conscience
 SCP-6195 - Live at the OK Hotel
 SCP-6196 - The Wake and Funeral of Lyle Alan Burnley
 SCP-6197 - Frigophilia
-SCP-6198 - Chernobog "The Black God"
+SCP-6198 - Chernobog ''The Black God''
 SCP-6199 - King CalcaRuler: Ruler of the Calculators, Savior of its Kind, and a Legend for Years to Come.
 
 6200 to 6299
@@ -6460,9 +6460,9 @@ SCP-6339 - Perhaps There Is More Than One Apology Here
 SCP-6340 - Stubborn Emil
 SCP-6341 - The Canadian Mail Void
 SCP-6342 - The Noble Knight Thompson and The Beast of Crimson
-SCP-6343 - "The Amazing Non-Existing Beast!"
+SCP-6343 - ''The Amazing Non-Existing Beast!''
 SCP-6344 - A Thousand Words
-SCP-6345 - Huesos Malos ("Bad Bones")
+SCP-6345 - Huesos Malos (''Bad Bones'')
 SCP-6346 - Not Casey Herring From Lincoln, Nebraska
 SCP-6347 - Ularburong
 SCP-6348 - Shackleton's Ghost
@@ -6570,7 +6570,7 @@ SCP-6447 - Sinners' Symphony
 SCP-6448 - Not Deer
 SCP-6449 - I miss my cat :(
 SCP-6450 - The Nam'Evanholly Hidebehind
-SCP-6451 - The "Guy" Man
+SCP-6451 - The ''Guy'' Man
 SCP-6452 - Unwrapped
 SCP-6453 - Shit Yeti
 SCP-6454 - The Painting That Ate Paris, Texas
@@ -6741,7 +6741,7 @@ SCP-6614 - Fly Me To The Moon
 SCP-6615 - A Hole to the Center of the Earth
 SCP-6616 - AnomalyCon
 SCP-6617 - The Anti-Siren
-SCP-6618 - "Papa!"
+SCP-6618 - ''Papa!''
 SCP-6619 - Birthing Pains
 SCP-6620 - YOU HAVE SERVED YOUR PURPOSE.
 SCP-6621 - Los Niños que Comieron Maíz Crudo
@@ -6763,7 +6763,7 @@ SCP-6636 - Redeveloped
 SCP-6637 - Secure Containment Posse
 SCP-6638 - To unify all under Heaven
 SCP-6639 - Blisterpunk
-SCP-6640 - The "Curse" of The Scottish Play
+SCP-6640 - The ''Curse'' of The Scottish Play
 SCP-6641 - Who Needs Wake-Up Calls When You Got ARM
 SCP-6642 - You hate me, too?
 SCP-6643 - The Common (?) Denominator
@@ -6793,7 +6793,7 @@ SCP-6666 - The Demon Hector and the Dread Titania
 SCP-6667 - For the Love of Humanity
 SCP-6668 - Infestation
 SCP-6669 - Endlessly Fucking Space
-SCP-6670 - "Mama?"
+SCP-6670 - ''Mama?''
 SCP-6671 - The Valley of Kings
 SCP-6672 - Arbitrary Apotheosis
 SCP-6673 - The One Lonely Eleventh
@@ -6852,7 +6852,7 @@ SCP-6723 - Untitled.
 SCP-6724 - I'd rather be someplace else.
 SCP-6725 - Mind-Blowing Wall Art
 MDI-6726 - Emetic Ill Agent
-DESIGNATION UNAVAILABLE - or KTE-0445-Scarlet, or Critter Profile: Availability, or Item-Theta-0406, or Yeaü, or Case File: "Availability", or Omega VIII, or 𝑥K-Class-Lack-of-Consistency-Senario, or O5-7, or SCP-6727, or Karl June.
+DESIGNATION UNAVAILABLE - or KTE-0445-Scarlet, or Critter Profile: Availability, or Item-Theta-0406, or Yeaü, or Case File: ''Availability'', or Omega VIII, or 𝑥K-Class-Lack-of-Consistency-Senario, or O5-7, or SCP-6727, or Karl June.
 SCP-6728 - The Dust Bowel
 SCP-6729 - A Grim Existence
 SCP-6730 - The Untouchable
@@ -6867,7 +6867,7 @@ SCP-6738 - so smoothly d o th he cr est. a wi nd g o d !
 SCP-6739 - An Absence of… Something?
 SCP-6740 - Our Shared Grave
 SCP-6741 - Beckoning Cold
-SCP-6742 - "I'm with the Foundation"
+SCP-6742 - ''I'm with the Foundation''
 SCP-6743 - Interchangeable Language Band
 SCP-6744 - And the world moved on
 SCP-6745 - Seasonal Menu
@@ -6944,7 +6944,7 @@ SCP-6813 - An Ignited Melody
 SCP-6814 - Going Postal
 SCP-6815 - To Fly Lanterns Under the Rising Sun
 SCP-6816 - Every Action Has Its Equal Opposite Reaction
-SCP-6817 - "Esther"
+SCP-6817 - ''Esther''
 SCP-6818 - His Toolbox Grew Hands
 SCP-6819 - bio-luminescence
 SCP-6820 - TERMINATION ATTEMPT
@@ -6986,7 +6986,7 @@ SCP-6855 - No Need to Wine
 SCP-6856 - Look What I Can Do
 SCP-6857 - The Birthday Problem
 SCP-6858 - The Wolf, Down
-SCP-6859 - "dust bunny"
+SCP-6859 - ''dust bunny''
 SCP-6860 - Memories Bloom Under Moonlight
 SCP-6861 - Sic Semper Tyrannosaurus
 SCP-6862 - Beatlemania 2: Keep on Beatlin'
@@ -7057,14 +7057,14 @@ SCP-6924 - Heresy
 SCP-6925 - Jailbreak
 SCP-6926 - Help! I Can't Stop Eating Garbage!
 SCP-6927 - Eurydification
-SCP-6928 - "All-Age Empathy"
+SCP-6928 - ''All-Age Empathy''
 SCP-6929 - Nothing Calls Memories to Mind Better Than the Smell of Soil.
 SCP-6930 - 🔴 Paty Is Streaming Now!
 SCP-6931 - Though the Sky, It Was Grey
 SCP-6932 - Sensei
 SCP-6933 - A Thorn in the Side of History
 SCP-6934 - Saint Elmo's Fire
-SCP-6935 - "And Who Will Forgive Us When He's Gone?"
+SCP-6935 - ''And Who Will Forgive Us When He's Gone?''
 SCP-6936 - Unforgivable
 SCP-6937 - The Terminal Loom
 SCP-6938 - Alex Thorley Gets A Gift Horse
@@ -7175,7 +7175,7 @@ SCP-7041 - Prince with a Thousand Enemies
 SCP-7042 - Mother Nature's Sketchbook
 SCP-7043 - Murphy Law in… Skip 7043 - THE MONTAUK FALCON!
 SCP-7044 - Therapy Bird
-SCP-7045 - "Is this your tape recorder?"
+SCP-7045 - ''Is this your tape recorder?''
 SCP-7046 - Unwilling Blood
 SCP-7047 - Domino Theory
 SCP-7048 - Interactive Home Media Entertainment
@@ -7205,7 +7205,7 @@ SCP-7071 - Wiggly
 SCP-7072 - The Stalker
 SCP-7073 - Vincent Bohart and the Golden Goose
 SCP-7074 - Asymptotic Bubble
-SCP-7075 - "Twins"
+SCP-7075 - ''Twins''
 SCP-7076 - The Graduating Class of '76
 SCP-7077 - Where Sky Meets Sea
 SCP-7078 - The Museum for Know-it-alls
@@ -7234,7 +7234,7 @@ SCP-7099 - A-Net: Radio Made Fun!™
 7100 to 7199
 SCP-7100 - At Rainbow's End
 SCP-7101 - Ms. Fortune
-SCP-7102 - "Goldie"
+SCP-7102 - ''Goldie''
 SCP-7103 - Statued
 SCP-7104 - Hall of Damnation
 SCP-7105 - I'D BE NOTHING WITHOUT YOU
@@ -7288,7 +7288,7 @@ SCP-7152 - Water to Wine
 SCP-7153 - I'll tell you anyfin!
 SCP-7154 - Don't Let the Pigeon Drive Your Brain!
 SCP-7155 - unremarkable.
-SCP-7156 - i've been spelling it as rubix cube this whole time, since when was it called a fucking "rubik's" cube?
+SCP-7156 - i've been spelling it as rubix cube this whole time, since when was it called a fucking ''rubik's'' cube?
 SCP-7157 - Original the Character
 SCP-7158 - A Happy Day and Too Many More
 SCP-7159 - Kensington Gore
@@ -7439,7 +7439,7 @@ SCP-7299 - The Somewhat Extravagant Story of Researcher Markus Fairweather
 SCP-7300 - PLANKTON!!!
 SCP-7301 - Site-301 receives 3 pages of paper
 SCP-7302 - Teratophilia
-SCP-7303 - H is for "Health"
+SCP-7303 - H is for ''Health''
 SCP-7304 - Iltam Zumra Rashputi Elatim
 SCP-7305 - a witness
 SCP-7306 - No More Regrets?
@@ -7476,7 +7476,7 @@ SCP-7336 - The Last Theorem
 SCP-7337 - Yata no Karasu
 SCP-7338 - “Hang in there, baby!”
 SCP-7339 - The Leopard Hunt Game
-SCP-7340 - I is for "Incision"
+SCP-7340 - I is for ''Incision''
 SCP-7341 - Nothing, and Everything
 SCP-7342 - To The Makers of Reese's Puffs
 SCP-7343 - Deity, Petrified
@@ -7603,13 +7603,13 @@ SCP-7461 - The Foundation Tries to be Charitable
 SCP-7462 - And every night, Alagadda drags you back.
 PSC-7463 - The space orcs.
 SCP-7464 - They're chewing through my skin and they won't stop.
-SCP-7465 - "Superseded Theories of the Solar System"
+SCP-7465 - ''Superseded Theories of the Solar System''
 SCP-7466 - Ethereal Canvas
-SCP-7467 - "Leuxfai, Urdalšu"
+SCP-7467 - ''Leuxfai, Urdalšu''
 SCP-7468 - Request, may this unit remove and study your internal organs?
 SCP-7469 - Memories Frozen in Time
 SCP-7470 - M is for Moonlight
-SCP-7471 - The SCP Formerly Known As "Dickbursters"
+SCP-7471 - The SCP Formerly Known As ''Dickbursters''
 SCP-7472 - Panopticon V: This Time It's Personal
 SCP-7473 - Every Pearl's Insides
 SCP-7474 - A Blatant(?) Rip-off
@@ -7777,7 +7777,7 @@ SCP-7631 - Your Next Sip
 SCP-7632 - De Heks in Het Bos (The Witch in the Woods)
 SCP-7633 - The Nuclear Vault
 SCP-7634 - Planetary Computing Complex
-SCP-7635 - "Darwin" the Wombat
+SCP-7635 - ''Darwin'' the Wombat
 SCP-7636 - TAPEWORM TANGIBLE
 SCP-7637 - The Day Your Innocence Died
 SCP-7638 - Anubis.
@@ -7802,7 +7802,7 @@ SCP-7656 - The 21:14 | 23:20 Incident
 SCP-7657 - a swan in spring
 SCP-7658 - Forgettable, That’s What We Are
 SCP-7659 - The Workplace Crab Bucket
-SCP-7660 - Q is for "Questions"
+SCP-7660 - Q is for ''Questions''
 SCP-7661 - When Will Mommy Come Back?
 SCP-7662 - It Takes a Room to Hold a Village
 SCP-7663 - Bumbles The Clown
@@ -7828,7 +7828,7 @@ SCP-7682 - The Incredibly Hard-To-Find Reptile
 SCP-7683 - 電気によって…… | denki ni yotte…
 SCP-7684 - Air Gap / Drywall
 SCP-7685 - Study Guide
-SCP-7686 - R is for "Reshape"
+SCP-7686 - R is for ''Reshape''
 SCP-7687 - Overflowing
 SCP-7688 - Quite Litteraly *Literally
 SCP-7689 - Two Scientists Walk Into A Bar
@@ -7873,7 +7873,7 @@ SCP-7725 - S is for Saintly
 SCP-7726 - So long, and thanks for all the fish.
 SCP-7727 - uh oh stinky
 SCP-7728 - A File Found Open on Dr. Reynders' Laptop, Written By A Certain 6 Year-Old
-SCP-7729 - "This Can't Be Everything Of Me"
+SCP-7729 - ''This Can't Be Everything Of Me''
 SCP-7730 - Uninevitable
 SCP-7731 - Hallowon't
 SCP-7732 - Gravitational Texting
@@ -7903,7 +7903,7 @@ SCP-7755 - A Hole Dug With a Rabbit's Foot
 SCP-7756 - There's No Place Like Home…Land Security
 SCP-7757 - Steven Y. Hayes does not exist.
 SCP-7758 - Leviticus 20:2
-SCP-7759 - T is for "Transmission"
+SCP-7759 - T is for ''Transmission''
 SCP-7760 - Unfortunate Events
 SCP-7761 - Consumer Capitalist
 SCP-7762 - Helsing's Angels
@@ -8061,7 +8061,7 @@ SCP-7909 - …And Then Nothing Happened
 SCP-7910 - Uncomfortably Numb
 SCP-7911 - Tunnels
 SCP-7912 - I N T E R I O R
-SCP-7913 - "That Wasn't Very Turtle Town of You."
+SCP-7913 - ''That Wasn't Very Turtle Town of You.''
 SCP-7914 - The Sculpture - The Head
 SCP-7915 - Selene's Serenade: An Ode to the Moon
 SCP-7916 - As The World Caves In
@@ -8070,7 +8070,7 @@ SCP-7918 - RONALD REAGAN DIES OF ACQUIRED IMMUNODEFICIENCY SYNDROME-RELATED COMP
 SCP-7919 - Terror-toma
 SCP-7920 - There Are No Gods Here
 SCP-7921 - Hands on the Tap
-SCP-7922 - "And for my last trick…"
+SCP-7922 - ''And for my last trick…''
 SCP-7923 - Unalived
 SCP-7924 - The Goat that Kept on Gifting
 SCP-7925 - Buzzing Through the Prophets
@@ -8432,7 +8432,7 @@ SCP-8275 - Long Legs
 SCP-8276 - Still Wandering Here, Above The Ground
 SCP-8277 - Going Halfsies
 SCP-8278 - An Artist's Remedy
-SCP-8279 - "The Screaming"
+SCP-8279 - ''The Screaming''
 SCP-8280 - Slipping Through The Cracks
 SCP-8281 - Transformations
 SCP-8282 - You Are Now Entering
@@ -8496,7 +8496,7 @@ SCP-8337 - (I Fear That) Theoretically, This Anomaly Could Have One Billion Obje
 SCP-8338 - I'm president of the United States. And I'm not gonna eat any more broccoli!
 SCP-8339 - Photophobia: Live in the Dark. Die in the Light.
 SCP-8340 - The Scary Vore
-SCP-8341 - The "I'm Gay" Bomb
+SCP-8341 - The ''I'm Gay'' Bomb
 SCP-8342 - Syzygy
 SCP-8343 - Slaying the Demiurge
 SCP-8344 - When I Grow Up
@@ -8513,7 +8513,7 @@ SCP-8354 - Something in the Snow
 SCP-8355 - The Damballa Effect
 SCP-8356 - Decidophobia: the Wrong Way
 SCP-8357 - head, figurine
-SCP-8358 - "My First SCP"
+SCP-8358 - ''My First SCP''
 SCP-8359 - 3AM
 SCP-8360 - Nahualismo
 SCP-8361 - Santa Muerte
@@ -8539,7 +8539,7 @@ SCP-8380 - Aquaphobia: Surface Tension
 SCP-8381 - Call of the Hyphae
 SCP-8382 - The Minervan Mallet
 SCP-8383 - The Tangible and Intangible Cultural Heritage of the Saint Sophia Christians
-SCP-8384 - "I still believe in kindness."
+SCP-8384 - ''I still believe in kindness.''
 SCP-8385 - AirDodo
 SCP-8386 - To Us, Our Forever Story
 SCP-8387 - Passing Grades
@@ -8911,7 +8911,7 @@ SCP-8742 - Deep Drown
 SCP-8743 - [ACCESS DENIED]
 SCP-8744 - do you feel me now?
 SCP-8745 - [ACCESS DENIED]
-SCP-8746 - The Dollhouse (or: "AAAAAAAAA!!!!")
+SCP-8746 - The Dollhouse (or: ''AAAAAAAAA!!!!'')
 SCP-8747 - R E C T I F I C A T I O N
 SCP-8748 - Baker’s Secret
 SCP-8749 - Mezmerize
@@ -9163,7 +9163,7 @@ SCP-8990 - Poor Richard and the King
 SCP-8991 - Make It Count!
 SCP-8992 - Body of Evidence
 SCP-8993 - Embody
-SCP-8994 - "Spellsteal"
+SCP-8994 - ''Spellsteal''
 SCP-8995 - Surf's Up
 SCP-8996 - We Three Kings (Of What?)
 SCP-8997 - Infinite Impossibilities
@@ -9179,7 +9179,7 @@ SCP-9005 - The Hanged Man
 SCP-9006 - The Breakdown Of The Egg Structure
 SCP-9007 - Breaking News
 SCP-9008 - This Place Sucks
-SCP-9009 - "White People"
+SCP-9009 - ''White People''
 SCP-9010 - Lycanhaus
 SCP-9011 - Soft White Light
 SCP-9012 - Contents Unverified
@@ -9265,7 +9265,7 @@ SCP-9091 - Stardust
 SCP-9092 - End of the Stars
 SCP-9093 - RIGHTEOUS JUSTICE!
 SCP-9094 - Mary had a second guess
-SCP-9095 - "Victims of VKTM Memorial Foundation"
+SCP-9095 - ''Victims of VKTM Memorial Foundation''
 SCP-9096 - The Lunch Thief
 SCP-9097 - I gave birth to a full woman
 SCP-9098 - Tears In The Rain
@@ -9462,7 +9462,7 @@ SCP-9284 - [ACCESS DENIED]
 SCP-9285 - The Piano & The Annex Manuscript
 SCP-9286 - [ACCESS DENIED]
 SCP-9287 - [ACCESS DENIED]
-SCP-9288 - "The Wheel of Fortune"
+SCP-9288 - ''The Wheel of Fortune''
 SCP-9289 - [ACCESS DENIED]
 SCP-9290 - [ACCESS DENIED]
 SCP-9291 - [ACCESS DENIED]
@@ -9485,7 +9485,7 @@ SCP-9305 - Quantum Taxi, Quantum Mind
 SCP-9306 - [ACCESS DENIED]
 SCP-9307 - A Voice by the Edge
 SCP-9308 - [ACCESS DENIED]
-SCP-9309 - "and as the sole member of the community here, i feel a strong sense of responsibility to—"
+SCP-9309 - ''and as the sole member of the community here, i feel a strong sense of responsibility to—''
 SCP-9310 - The village of witches
 SCP-9311 - [ACCESS DENIED]
 SCP-9312 - [ACCESS DENIED]
@@ -9664,7 +9664,7 @@ SCP-9482 - [ACCESS DENIED]
 SCP-9483 - [ACCESS DENIED]
 SCP-9484 - Circular Reasoning
 SCP-9485 - Born too early; too late; or not at all
-SCP-9486 - "I" is not a recognized command.
+SCP-9486 - ''I'' is not a recognized command.
 SCP-9487 - NoimydnE
 SCP-9488 - [ACCESS DENIED]
 SCP-9489 - [ACCESS DENIED]
@@ -9772,7 +9772,7 @@ SCP-9588 - Genius of Love
 SCP-9589 - [ACCESS DENIED]
 SCP-9590 - The Graveyard Shift
 SCP-9591 - A Head Start
-SCP-9592 - The "Magic Marker"
+SCP-9592 - The ''Magic Marker''
 SCP-9593 - Prestige TeeVee
 SCP-9594 - [ACCESS DENIED]
 SCP-9595 - Pizza freak
@@ -9944,7 +9944,7 @@ SCP-9756 - [ACCESS DENIED]
 SCP-9757 - Good Days Only
 SCP-9758 - [ACCESS DENIED]
 SCP-9759 - [ACCESS DENIED]
-SCP-9760 - "Seth"
+SCP-9760 - ''Seth''
 SCP-9761 - philosophical phoenix
 SCP-9762 - [ACCESS DENIED]
 SCP-9763 - [ACCESS DENIED]
