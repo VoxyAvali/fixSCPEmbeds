@@ -8,8 +8,8 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return """
-    <h1>🛠 FixSCP</h1>
-    <p>Replace scp-wiki.wikidot.com with this URL</p>
+    <h1>fixSCP</h1>
+    <p>Simply replace scp-wiki.wikidot.com with this website´s URL for a better embed</p>
     """
 
 @app.route('/<path:path>')
